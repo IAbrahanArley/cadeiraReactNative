@@ -14,6 +14,8 @@ const App = () => {
         justifyContent: "center",
       }}
     >
+      <Exercicio1 nome="Mundo" />
+      <Exercicio2 />
       <Exercicio3 />
     </View>
   );
